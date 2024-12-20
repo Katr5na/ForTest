@@ -19,13 +19,7 @@
   </head>
   <body>
     <!--IMAGETARGETS-->
-		<imagetarget id='bear' src='targets/bear.png'></imagetarget>
-		<imagetarget id='bfly' src='targets/bfly.png'></imagetarget>
-		<imagetarget id='flower' src='targets/flower.png'></imagetarget>
-		<imagetarget id='lady' src='targets/lady.png'></imagetarget>
-		<imagetarget id='reel' src='targets/reel.png'></imagetarget>
-		<imagetarget id='rmn' src='targets/rmn.png'></imagetarget>
-		<imagetarget id='kurumi' src='targets/kurumi.jpg'></imagetarget>
+		<imagetarget id='flower' src='targets/IMG_3792.jpg'></imagetarget>
 
     <video id="webcam-video" muted autoplay playsinline style="width:1px;position:absolute"></video>
     <canvas id="video-canvas" style="width:100%; height:100%; object-fit:cover; position:absolute"></canvas>
@@ -143,11 +137,11 @@
           startARDiv.style.visibility = "hidden";
         }, 500);
         var buildUrl = "Build";
-        var loaderUrl = buildUrl + "/kurumi_test_3.loader.js";
+        var loaderUrl = buildUrl + "/postcard.loader.js";
         var config = {
-          dataUrl: buildUrl + "/kurumi_test_3.data",
-          frameworkUrl: buildUrl + "/kurumi_test_3.framework.js",
-          codeUrl: buildUrl + "/kurumi_test_3.wasm",
+          dataUrl: buildUrl + "/postcard.data",
+          frameworkUrl: buildUrl + "/postcard.framework.js",
+          codeUrl: buildUrl + "/postcard.wasm",
           streamingAssetsUrl: "StreamingAssets",
           companyName: "DefaultCompany",
           productName: "LearnUnity",
