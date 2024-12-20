@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-LearnUnity-0.1.0";
 const contentToCache = [
-    "Build/kurumi_test.loader.js",
-    "Build/kurumi_test.framework.js",
-    "Build/kurumi_test.data",
-    "Build/kurumi_test.wasm",
+    "Build/kurumi_test_3.loader.js",
+    "Build/kurumi_test_3.framework.js",
+    "Build/kurumi_test_3.data",
+    "Build/kurumi_test_3.wasm",
     "TemplateData/style.css"
 
 ];
