@@ -1,9 +1,6 @@
 {
   "content": [
     {
-      "buyButtonText": "Buy"
-    },
-    {
       "name": "First model",
       "modelUrl": "https://katr5na.github.io/ForTest/verona_armchair_beige.glb"
     },
