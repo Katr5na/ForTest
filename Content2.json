@@ -1,0 +1,24 @@
+{
+  "content": [
+    {
+      "name": "First model",
+      "modelUrl": "https://katr5na.github.io/ForTest/verona_armchair_beige.glb"
+    },
+    {
+      "name": "second model",
+      "modelUrl": "https://katr5na.github.io/ForTest/verona_armchair_brown.glb"
+    },
+    {
+      "name": "third model",
+      "modelUrl": "https://katr5na.github.io/ForTest/verona_armchair_white.glb"
+    },
+    {
+      "name": "third model",
+      "modelUrl": "https://katr5na.github.io/ForTest/verona_armchair_gray.glb"
+    },
+    {
+      "name": "third model",
+      "modelUrl": "https://katr5na.github.io/ForTest/verona_armchair_green.glb"
+    }
+  ]
+}
